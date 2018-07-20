@@ -84,6 +84,7 @@ p.subtitle{
     z-index: 2;
 }
 
+
 @keyframes moniterIn{
     from{
         transform: translateY(-30px);
