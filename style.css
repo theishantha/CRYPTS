@@ -1,0 +1,45 @@
+body ,html{
+    font-family: Avenir, sans-serif;
+    height: 100%;
+    margin: 0;
+}
+body{
+    background: #F4F4F4 url('images/CandlesBG.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#home-container{
+    display: grid;
+    grid-template-columns: .5fr 1fr 1fr .5fr;
+    grid-gap:  10px;
+    grid-template-areas: 
+        ".left right .";
+    height: 100%;
+}
+#inner {
+    grid-area: left;
+    align-self: center;
+    justify-self:center;
+}
+#illustration {
+    grid-area: right;
+    align-self: center;
+    justify-self:center;
+    width: 80%;
+}
+
+img#logo{
+    width: 130px;
+    margin-bottom: 1.6em;
+}
+
+h1{
+    color: #535353;
+    margin-bottom: .2em;
+    text-transform: uppercase;
+}
+p.subtitle{
+    font-size: 1.4em;
+    color: #858585;
+    margin-top: 0;
+}
