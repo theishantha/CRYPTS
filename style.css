@@ -43,3 +43,20 @@ p.subtitle{
     color: #858585;
     margin-top: 0;
 }
+.cta{
+    background-color: #09BBE9;
+    padding: 1em;
+    color: #fff;
+    border-radius: 5px;;
+    font-weight: bold;
+    margin-top: 2em;
+    display: inline-block;
+    text-decoration: none;
+}
+#moniter{
+    
+}
+.crypto-icons{
+    position: absolute;
+    width: 12%;
+}
