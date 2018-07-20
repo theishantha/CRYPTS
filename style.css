@@ -60,3 +60,16 @@ p.subtitle{
     position: absolute;
     width: 12%;
 }
+
+#dash{
+    margin-top: -4%;
+    margin-left: 9%;
+}
+#eth{
+    margin-top: 9.5%;
+    margin-left: 18%;
+}
+#iota{
+    margin-top:5%;
+    margin-left: -1.5%;
+}
