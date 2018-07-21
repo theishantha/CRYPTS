@@ -1,4 +1,4 @@
-#CRYPYS
+# CRYPYS
 Ui-Design for Cryptocurrency Chat Website Landing Page
 
 <p align="center">
